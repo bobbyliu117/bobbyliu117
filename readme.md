@@ -1,6 +1,6 @@
-## Intro
+## Intro :coffee:
 
-<p align="center">:tea: :coffee:</p>
+<p align="center">:tea: :coffee: :tea: :coffee: :tea: :coffee: :tea: :coffee: :tea: :coffee: :tea: :coffee: :tea: :coffee:</p>
 Hi there, nice meeting U 
 
 ## Todos
