@@ -1,18 +1,7 @@
-<style>
-    body {
-        background-color: #272A36;
-    }
-    details details {
-        margin-left: 8px;
-    }
-    details details div {
-        padding-left: 16px;
-    }
-</style>
-
 ## Intro
 
-Hi there, nice meeting == U == :joy:
+<p align="center">:tea: :coffee:</p>
+Hi there, nice meeting U 
 
 ## Todos
 - [x] Setup GitHub Profile
@@ -22,9 +11,9 @@ Hi there, nice meeting == U == :joy:
 ## My Stack
 <details open>
     <summary><b>Technologies</b></summary>
-        <details>
+        <details style="margin-left: 8px;">
             <summary><b>Mobile Development</b></summary>
-            <div>
+            <div style="padding-left: 16px;">
                 <p>Native Android</p>
                 <p>iOS</p>
                 <p>Flutter</p>
@@ -36,3 +25,4 @@ Hi there, nice meeting == U == :joy:
 ## Show me the Stats
 
 ![X](https://github-readme-stats.vercel.app/api?username=bobbyliu117&show_icons=true&theme=dracula)
+</div>
