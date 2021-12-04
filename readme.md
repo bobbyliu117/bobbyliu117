@@ -26,3 +26,5 @@ Hi there, nice meeting U
 
 ![X](https://github-readme-stats.vercel.app/api?username=bobbyliu117&show_icons=true&theme=dracula)
 </div>
+
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bobbyliu117&layout=compact&theme=dracula&hide_border=true" />
