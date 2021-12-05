@@ -1,9 +1,9 @@
 ## Intro :coffee:
 
 <p align="center">:tea: :coffee: :tea: :coffee: :tea: :coffee: :tea: :coffee: :tea: :coffee: :tea: :coffee: :tea: :coffee:</p>
-<p>Hi there, nice meeting U</p>
+<p>Hi there, nice meeting U! Happy coding🧋</p>
 <div align="center">
-    <video width="50%" src="./assets/video/phishing_attack.mp4"></video>
+    <video src="https://user-images.githubusercontent.com/19210566/144733800-65b0f60e-000c-4d30-b12d-c90b25d63ae3.mp4"></video>
 </div>
 
 ## Todos
