@@ -23,7 +23,6 @@
 </details>
 
 ## Show me the Stats
-![X](https://github-profile-trophy.vercel.app/?username=bobbyliu117&title=MultiLanguage,Repositories,Commits,Stars,Followers,PullRequest&theme=dracula&margin-w=10)
 
 ![X](https://github-readme-stats.vercel.app/api?username=bobbyliu117&show_icons=true&theme=dracula)
 </div>
